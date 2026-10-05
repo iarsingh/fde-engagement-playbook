@@ -1,5 +1,24 @@
 # FDE engagement playbook
 
+<!-- project-guide:start -->
+## Project guide
+
+[Project architecture](PROJECT_ARCHITECTURE.md) · [Interview questions and answers](INTERVIEW_QA.md)
+
+Use the architecture document for the component diagram, implementation boundaries, and verification entry points. The interview guide includes source-backed answers and project walkthroughs.
+
+### Implementation map
+
+| Component | Responsibility |
+| --- | --- |
+| [`README.md`](README.md) | Project explanations or operating notes |
+| [`examples/harborline.md`](examples/harborline.md) | Project explanations or operating notes |
+| [`plan/90-day-fde-profile.md`](plan/90-day-fde-profile.md) | Project explanations or operating notes |
+
+Setup and examples are described in the existing project notes below. Consult the component-specific manifests before assuming a single launch command.
+
+<!-- project-guide:end -->
+
 How Akhilesh Ranjan Singh runs a forward deployed engagement, and the 90-day plan for making that the public profile.
 
 The cloud portfolio already shows GCP, Kubernetes, SRE, and MLOps. Forward deployed hiring looks for a different proof: you can sit with a customer, cut a messy operational problem down to something shippable, obey a constraint that deletes your favorite design, and write the note an operator will forward to their boss.
