@@ -43,3 +43,11 @@ The cloud portfolio already shows GCP, Kubernetes, SRE, and MLOps. Forward deplo
 7. [Retro](templates/07-engagement-retro.md) — what to reuse next time
 
 A repo that only contains a model demo reads as a tutorial. A repo that contains these seven docs plus code that enforces the metric reads as a deployment.
+
+## Documentation checks
+
+Project architecture, interview guides, and local source links are checked automatically on pushes and pull requests. Run the same check locally:
+
+```bash
+python3 .github/scripts/validate_project_docs.py
+```
