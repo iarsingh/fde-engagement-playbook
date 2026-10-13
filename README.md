@@ -1,5 +1,12 @@
 # FDE engagement playbook
 
+## Overview
+
+A playbook for running a forward deployed engagement, plus a 90-day plan for building a public profile around that work. It argues that forward deployed roles need different proof than a cloud portfolio: cutting a messy operational problem down to something shippable, working within a hard constraint, and writing a readout an operator can forward. It provides seven templates, from discovery brief and success metrics through security review, rollout and rollback, weekly readout and retro, with a filled example for Harborline, a fictional engagement.
+
+- **Built with:** Markdown
+- **Scope:** Documentation and templates only; there is no code.
+
 <!-- project-guide:start -->
 ## Project guide
 
